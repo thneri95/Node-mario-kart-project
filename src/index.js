@@ -6,6 +6,7 @@ const player1 = {
   PONTOS: 0,
 };
 
+
 const player2 = {
   NOME: "Luigi",
   VELOCIDADE: 3,
