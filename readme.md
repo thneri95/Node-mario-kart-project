@@ -1,4 +1,3 @@
-// Project Completed!
 
 <h1>Project Challenge: Mario Kart.JS</h1>
 
@@ -103,3 +102,6 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">At the end, whoever has accumulated the most points wins</label>
+
+
+**Project Completed!**
