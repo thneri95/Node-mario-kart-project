@@ -1,3 +1,5 @@
+// Project Completed!
+
 <h1>Project Challenge: Mario Kart.JS</h1>
 
   <table>
